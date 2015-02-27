@@ -1,2 +1,2 @@
 i am manohar, and my father name is chamaraju, i am in local
-merged from local first
+merged from local first then moved to remote-1
